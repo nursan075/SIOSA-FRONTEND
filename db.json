@@ -1,0 +1,239 @@
+{
+  "data_vibrasi": [
+    {
+      "id": "1",
+      "name": "BFP update",
+      "unit": "1",
+      "time": "12-07-2023",
+      "de": "2.2",
+      "nde": "1.3",
+      "axial": "0.2",
+      "oleh": "San"
+    },
+    {
+      "id": "bc0e",
+      "name": "IDF A",
+      "unit": "2",
+      "time": "26-07-2024",
+      "de": "2.4",
+      "nde": "3.1",
+      "axial": "7.3",
+      "oleh": "San"
+    }
+  ],
+  "data_temperatur": [
+    {
+      "id": "40f9",
+      "name": "CWP",
+      "unit": 1,
+      "time": "19/8/2024 14.16",
+      "de": "33",
+      "nde": "45",
+      "body": "23",
+      "oleh": "San",
+      "date": "2024-08-19T06:16:00.000Z"
+    },
+    {
+      "id": "d544",
+      "name": "Oke deh",
+      "unit": "2",
+      "time": "31/7/2024 09.56",
+      "de": "3",
+      "nde": "",
+      "body": "22",
+      "date": "2024-07-31T01:56:10.636Z",
+      "oleh": "San"
+    },
+    {
+      "id": "685d",
+      "name": "123",
+      "unit": 1,
+      "time": "15/8/2024 16.18",
+      "de": "44",
+      "nde": "45",
+      "body": "55",
+      "date": "2024-08-15T08:18:26.002Z",
+      "oleh": "San"
+    },
+    {
+      "id": "8de4",
+      "name": "Coab ah",
+      "unit": "2",
+      "date": "2024-07-31T01:53:20.875Z",
+      "de": "",
+      "nde": "",
+      "body": "",
+      "time": "31/7/2024 09.53",
+      "oleh": "San"
+    },
+    {
+      "id": "c9e9",
+      "name": "Apapun",
+      "unit": 1,
+      "date": "2024-07-31T03:16:34.701Z",
+      "de": "33",
+      "nde": "44",
+      "body": "56",
+      "time": "31/7/2024 11.16"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Alaba",
+      "user_name": "nursan97",
+      "email": "alaba@mail.com",
+      "password": "alaba123",
+      "profil": "",
+      "role": "Admin"
+    },
+    {
+      "id": "5",
+      "name": "Joko",
+      "user_name": "nursan97",
+      "email": "san@mail.com",
+      "password": "1234567890",
+      "profil": "",
+      "role": "User"
+    },
+    {
+      "id": "7",
+      "name": "Mulya",
+      "user_name": "nursan97",
+      "email": "san@mail.com",
+      "password": "1234567890",
+      "profil": "",
+      "role": "Admin"
+    },
+    {
+      "id": "8",
+      "name": "Kalumang",
+      "user_name": "jhond",
+      "email": "jhon@mail.com",
+      "password": "1234567890",
+      "profil": "",
+      "role": "User"
+    },
+    {
+      "id": "9",
+      "name": "Baso",
+      "user_name": "nursan97",
+      "email": "san@mail.com",
+      "password": "1234567890",
+      "profil": "",
+      "role": "User"
+    },
+    {
+      "id": "10",
+      "name": "Doel",
+      "user_name": "jhond",
+      "email": "jhon@mail.com",
+      "password": "1234567890",
+      "profil": "public/images/",
+      "role": "User"
+    },
+    {
+      "id": "11",
+      "name": "Nursan2",
+      "user_name": "nursan97",
+      "email": "san@mail.com",
+      "password": "1234567890",
+      "profil": "",
+      "role": "User"
+    },
+    {
+      "id": "15",
+      "name": "Joko2",
+      "user_name": "nursan97",
+      "email": "san@mail.com",
+      "password": "1234567890",
+      "profil": ""
+    },
+    {
+      "id": "17",
+      "name": "Mulya2",
+      "user_name": "nursan97",
+      "email": "san@mail.com",
+      "password": "1234567890",
+      "profil": ""
+    },
+    {
+      "id": "18",
+      "name": "Kalumang2",
+      "user_name": "jhond",
+      "email": "jhon@mail.com",
+      "password": "1234567890",
+      "profil": ""
+    },
+    {
+      "id": "19",
+      "name": "Baso2",
+      "user_name": "nursan97",
+      "email": "san@mail.com",
+      "password": "1234567890",
+      "profil": ""
+    },
+    {
+      "id": "20",
+      "name": "Doel2",
+      "user_name": "jhond",
+      "email": "jhon@mail.com",
+      "password": "1234567890",
+      "profil": ""
+    },
+    {
+      "id": "9148",
+      "name": "nursan",
+      "userName": "san77",
+      "email": "nursaner7@gmail.com",
+      "password": "123",
+      "role": null,
+      "profil": null
+    },
+    {
+      "id": "b3f7",
+      "name": "nursan",
+      "user_name": "san77",
+      "email": "nursaner7@gmail.com",
+      "password": "123",
+      "role": null,
+      "profil": null
+    },
+    {
+      "id": "ca4d",
+      "name": "Nursan",
+      "user_name": "nursan97",
+      "email": "san@mail.com",
+      "password": "1234567890",
+      "profil": null,
+      "role": "User"
+    },
+    {
+      "id": "8ce6",
+      "name": "Nursan222",
+      "user_name": "nursan97",
+      "email": "san@mail.com",
+      "password": "1234567890",
+      "role": "User",
+      "profil": null
+    },
+    {
+      "id": "cc74",
+      "name": "tea",
+      "user_name": "nursan97",
+      "email": "san@mail.com",
+      "password": "1234567890",
+      "role": "User",
+      "profil": null
+    },
+    {
+      "id": "864e",
+      "name": "aaaa",
+      "user_name": "aaaa",
+      "email": "aaa@mail.com",
+      "password": "1234",
+      "role": null,
+      "profil": null
+    }
+  ]
+}
